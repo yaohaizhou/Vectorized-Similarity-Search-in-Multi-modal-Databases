@@ -6,7 +6,7 @@ This is a class project on UCLA CS260 Machine Learning Algorithm advised by Prof
 
 We build a multimodal database including texts and images, which can query images by texts, and vice versa. Textual and visual embeddings are extracted by the techniques of CLIP. kNN and ANN are used as similarity search strategies. We study the performance of this approach and achieve achieved 96% precision rate on MS-COCO dataset. Online demo is available at [Demo(GPU)](http://18.237.16.206:8501/) and [Demo(CPU)](http://34.168.201.92:8501/).
 
-![](imgs/flow chart.png)
+![](imgs/flowchart.png)
 
 # Project Technology
 
