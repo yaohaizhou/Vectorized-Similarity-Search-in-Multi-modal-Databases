@@ -98,7 +98,7 @@ I am the leader of this team. My teammates are Jo-Hua Wu, Yu-Ruei Chang and Yi-A
 
 To be honest, working with them is a pleasure for me. I feel happy and released after the project. But I also want to list some difficulties when I was leading this team.
 
-The first problem is that we meet weekly on Tuesday and I cannot really connect to my teammates and push the process on the other time. We form a chat group both on WeChat and Line. But they chat less and do not have a quick response in the group except for one person Jo-Hua Wu. I think if for the next cooperation, I should make a week plan to give everyone the direction of our group. And apart from weekly meeting in person, we can also have online meetings sometimes to check the process of everyone.
+The first problem is that we meet weekly on Tuesday and I cannot really connect to my teammates and push the process on the other time. We form a chat group both on WeChat and Line. But they chat less and do not have a quick response in the group except for one person. I think if for the next cooperation, I should make a week plan to give everyone the direction of our group. And apart from weekly meeting in person, we can also have online meetings sometimes to check the process of everyone.
 
 The second problem is that our workload is not very balanced. Wu's and my work is more than others. I think this is not very fair for the whole team. I am not complaining about my overload. I think I should take this responsibility. But for the next time, I should not do every thing by myself. I should not be a manager and a worker. As the leader, I should be a supporter and a guider for my teammates to finish the task together. Maybe I can start the program early and teach others how to continue the work.
 
